@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament: for the repairing of churches and paying of all church-duties whatsoever within the kingdome of England and dominion of Wales</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83255</idno>
+            <idno type="STC">Wing E2032B</idno>
+            <idno type="STC">ESTC R204570</idno>
+            <idno type="EEBO-CITATION">45534379</idno>
+            <idno type="OCLC">ocm 45534379</idno>
+            <idno type="VID">171773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83255)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171773)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2590:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament: for the repairing of churches and paying of all church-duties whatsoever within the kingdome of England and dominion of Wales</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Wright ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Die Mercurii, 9 Februarii. 1647. Ordered by the lords assembled in Parliament, that this ordinance for repairing of churches, and paying of church-duties, be forthwith printed and published and sent to all churches and chappels within the kingdome of England and dominion of Wales. Joh. Brown, Cler. Parliamentorum."</note>
+                  <note>Imperfect: pages have print show-through.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church maintenance and repair --  England --  Early works to 1800.</term>
+               <term>Church maintenance and repair --  Wales --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:171773:1" rendition="simple:additions"/>
+AN ORDINANCE OF THE LORDS and COMMONS Aſſembled in PARLIAMENT: FOR The repairing of CHURCHES, and paying of all Church-Duties Whatſoever within the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <date>Die Mercurii, 9 <hi>Februarii.</hi> 1647.</date>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords Aſſembled in Parliament, That this Ordinance for repairing of Churches, and pay<g ref="char:EOLhyphen"/>ing of Church-Duties, be forthwith printed and publiſhed and ſent to all Churches and Chappels within the King<g ref="char:EOLhyphen"/>dome of</hi> England <hi>and Dominion of</hi> Wales.</p>
+                        <closer>
+                           <signed>Joh. Brown, Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Imprinted at London for <hi>John Wright</hi> at the Kings Head in the old Bayley. 1647.</p>
+            <pb facs="tcp:171773:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:171773:3"/>
+            <pb n="1" facs="tcp:171773:3"/>
+            <opener>
+               <date>
+                  <hi>Die Mercurii,</hi> 9 Februarii. 1647.</date>
+            </opener>
+            <head>An Ordinance for repairing Chur<g ref="char:EOLhyphen"/>ches, and for payment of Church-Duties.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the upholding and keeping all Pariſh Churches and Chappels within this Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and Dominion of <hi>Wales</hi> from utter ruine and decay, and for payment of Church Duties, It is Ordered and Ordained by the Lords and Commons Aſſem<g ref="char:EOLhyphen"/>bled in Parliament, That foure, three, two, or one ſubſtantiall Inhabitant or Inhabitants of every Pariſh or Chappelry aforeſaid, (having reſpect to the pro<g ref="char:EOLhyphen"/>portions or greatneſſe of every ſuch Pariſh or Chap<g ref="char:EOLhyphen"/>pelry) ſhall be nominated and choſen yearly on the Munday or Tueſday in Eaſter weeke, by the Pa<g ref="char:EOLhyphen"/>riſhioners of every Pariſh or Chappelry, (which are or ſhall be rateable to the repaire of any ſuch Church or Chappell) or the greateſt part of ſuch of them as ſhall be then aſſembled for the choyce of Officers within the Pariſh or Chappelry) to be Church-war<g ref="char:EOLhyphen"/>den, or Churchwardens, or Collectors of moneyes for Church-Duties, within every ſuch Pariſh or Chappelry reſpectively, where any ſuch Church-warden or Church-wardens, have or hath been for<g ref="char:EOLhyphen"/>merly uſed to be nominated or choſen; or in default hereof, every ſuch Pariſh or Chappelry ſhall forfeit
+<pb n="2" facs="tcp:171773:4"/>
+the ſumme of forty ſhillings, to the uſe of the poore of the ſaid pariſh, to be recovered as is hereafter ex<g ref="char:EOLhyphen"/>preſſed; which church-wardens or collectors ſo to be choſen, are within one moneth after their choyce to be allowed and approved of under the hands and ſeales of two of the next Juſtices adjoyning to the pariſh or chappelry aforefaid.</p>
+            <p>And it is further Ordained, That the church-wardens, or collectors aforeſaid, together with the Overſeers of the poore of the ſame pariſh or chap<g ref="char:EOLhyphen"/>pelry, or the greater part of them, upon publike no<g ref="char:EOLhyphen"/>tice thereof firſt to be given by the church-wardens in the ſaid church or chappell, ſhall from time to time make rates or aſſeſſements, by taxation of eve<g ref="char:EOLhyphen"/>ry. Inhabitant dwelling or reſiding within ſuch pariſh or chappelry, and of every Occupier of lands, hou<g ref="char:EOLhyphen"/>ſes, tythes impropriate, or impropriation of tythes, colegmnies, or ſaleable underwoods, or other heredi<g ref="char:EOLhyphen"/>taments, within the ſaid pariſh or chappelry, in ſuch competent ſumme and ſummes of money as they ſhall think fit, for and towards the reparation and maintenance of every ſuch pariſh church or chap<g ref="char:EOLhyphen"/>pell reſpectively, and providing of Books for the ſaid church or chappell, and of Bread and Wine to be uſed at the adminiſtration of the Sacrament there, and for repairing the walls and incloſures of the church yards, or burying places thereunto reſpective<g ref="char:EOLhyphen"/>ly belonging, and for doing and performing every ſuch thing and things as by this Ordinance is appoin<g ref="char:EOLhyphen"/>ted to be done, at the charge of ſuch pariſh or chap<g ref="char:EOLhyphen"/>pelry; As alſo for the doing and executing of all and every matter, which to the office, place, or duty of the church-wardens of any ſuch place wherein they
+<pb n="3" facs="tcp:171773:4"/>
+ſhall be reſpectively choſen, ſhall appertaine to be done; which ſaid church-warden or church-wardens ſhall within foure dayes after the end of their yeare, and after other church-warden or church-wardens nominated, make and yeeld to the ſucceeding church-wardens, and to ſuch Juſtices of the Peace as aforeſaid, a true and perfect accompt of all ſums of money by them received, or rated and aſſeſſed, and not received; and of all other things concerning their ſaid Office; and ſuch ſum or ſums of money as ſhall be in their hands, ſhall pay and deliver over to the ſaid churchwarden or churchwardens newly no<g ref="char:EOLhyphen"/>minated and appointed as aforeſaid, upon paine that every one of them being negligent or faulty therein, or in the execution of their ſaid Office, ſhall forfeit for every ſuch default or negligence, the ſum of twen<g ref="char:EOLhyphen"/>ty ſhillings to the uſe of the poore of ſuch pariſh or chappelry, as aforeſaid, whereof he ſhall be church-warden. And it is Ordained by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That all Rates, Taxations, and Aſſeſſements, heretofore made by the church-warden or church-wardens of any pariſh or chappelry aforeſaid, by themſelves or with others, according to the cuſtome of ſuch pariſh or chappelry, ſince the firſt day of March in the yeare of our Lord God 1641. for or towards the repaire of any church or chappell reſpe<g ref="char:EOLhyphen"/>ctively, or doing of any thing appointed by this Or<g ref="char:EOLhyphen"/>dinance to be done, if they ſhall now be confirm<g ref="char:EOLhyphen"/>ed by the two next Juſtices of the Peace, they ſhall ſtand, and be as good and effectuall in the Law, to all intents and purpoſes as if the ſame were to be made or done by and according to this Ordinance: And that it ſhall and may be lawfull, as well for the preſent
+<pb n="4" facs="tcp:171773:5"/>
+as ſubſequent Church-warden, or Collectors, or any of them, their Rates being firſt confirmed by the two next Juſtices of the Peace, by Warrant under the hands and ſeals of two ſuch Juſtices of the Peace within ſuch County or Townes corporate, to leavie as well all and every the ſaid ſummes of money, and all Arrerages of every one which ſhall refuſe, or neg<g ref="char:EOLhyphen"/>lect to pay or contribute their rateable parts of ſuch Aſſeſſements as aforeſaid, and the forfeitures before mentioned by Diſtreſſe, and ſale of the Offenders goods, as alſo all and every the ſumme and ſummes of Money which ſhall be behinde upon any Church-wardens Accompt, for, or concerning the repaire of any ſuch Church or Chappell, or other the things aforeſaid; and likewiſe the ſumme of two ſhillings for and towards the charge and expence in leavying of the ſame, rendering to the party or parties the o<g ref="char:EOLhyphen"/>verplus; and in default of ſuch Diſtreſſe it ſhall be lawfull for any two ſuch Juſtices of the Peace to commit him, or her, or them ſo refuſing, or negle<g ref="char:EOLhyphen"/>cting as aforeſaid, to the common Goale of the County, City, or Towne corporate reſpectively, where ſuch Juſtices of the Peace are, and ſuch of<g ref="char:EOLhyphen"/>fences ſhall be committed, there to remaine without Bayle or Mainprize untill payment of the ſaid ſeve<g ref="char:EOLhyphen"/>rall ſummes and Arrerages; and to commit to the ſaid Priſon, every one of the ſaid Church-wardens which ſhall refuſe to accompt, there to remaine without Bayle or Maine-prize untill he hath made a true Accompt, and ſatisfied and paid ſo much as up<g ref="char:EOLhyphen"/>on the ſaid Accompt ſhall be remaining in his hands. Provided alwaies, That if any perſon or perſons ſhall finde him, or her, or themſelves agrieved with any
+<pb n="5" facs="tcp:171773:5"/>
+Aſſeſſement, or Tax, or other act done by the ſaid Church-warden or Church-wardens or by the ſaid Juſtices of the Peace, or any of them, that then it ſhall and may be lawfull for the party grieved to complaine thereof at the next generall Quarter Seſ<g ref="char:EOLhyphen"/>ſions of the Peace, where the Juſtices of the Peace, or the greater number of them ſhall make ſuch order therein as to them ſhall be thought convenient, and the ſame to conclude and binde all the ſaid parties.</p>
+            <p>And be it further Ordained, that the Mayors, Bayliffs, or other head Officers of every City, Town, or place corporate within this Realme, or the Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> being Juſtice, or Juſtices of the Peace, ſhall have the ſame authority by vertue of this Ordinance within the ſeverall limits, and pre<g ref="char:EOLhyphen"/>cincts of their jurisdictions, as well out of Seſſions as at their Seſſions, if they ſhall hold any, as is be<g ref="char:EOLhyphen"/>fore limited, preſcribed, and appointed to Juſtices of the Peace of the County, or any two or more of them, or to the Juſtices of the Peace in their Quar<g ref="char:EOLhyphen"/>ter Seſſions to doe, and execute for all the uſes and purpoſes in this preſent Ordinance preſcribed, and no other Juſtice, or Juſtices of the Peace to inter<g ref="char:EOLhyphen"/>meddle there; and that every Alderman of the Ci<g ref="char:EOLhyphen"/>ty of <hi>London</hi> within his Ward ſhall and may doe and execute in every reſpect ſo much as is appointed and allowed in this Ordinance to be done and exe<g ref="char:EOLhyphen"/>cuted by one or two Juſtices of the Peace of any county within this Realme. And be it alſo Ordai<g ref="char:EOLhyphen"/>ned. That if it ſhall happen that any Pariſh do ex<g ref="char:EOLhyphen"/>tend it ſelfe into more counties then one, or part thereof to lye within the Liberties of any City, Town, or place corporate, and part without, that then the
+<pb n="6" facs="tcp:171773:6"/>
+Juſtices of the Peace of every county, as alſo the head Officer, or Officers, or Juſtices of the Peace of ſuch City, Towne, or place corporate, ſhall deale and intermeddle onely in ſo much of the ſaid Pariſh as lyeth within their Liberties, and not any further; and every of them reſpectively within their ſeverall Limits, Wards, and Juriſdictions, to execute the Ordinance aforementioned concerning the confir<g ref="char:EOLhyphen"/>ming of Rates, the giving of Warrant for the leavy<g ref="char:EOLhyphen"/>ing of Taxes unpaid, the committing to priſon ſuch as refuſe or neglect to pay their rateable part of the ſaid Aſſeſſements having no ſufficient Diſtreſſe, the taking Accompts of Church-wardens, and the com<g ref="char:EOLhyphen"/>mitting to Priſon ſuch as refuſe to accompt, or deny to pay the Arrerages due upon their Accompts; and yet nevertheleſſe the Church-wardens, or the greateſt number of them of the ſaid Pariſhes extending into ſuch ſeverall Limits &amp; Juriſdictions, ſhall without di<g ref="char:EOLhyphen"/>viding themſelves duly execute their office in all pla<g ref="char:EOLhyphen"/>ces within their ſaid Pariſh in all things to them belonging; and ſhall duly exhibit and make one accompt before the head Officer, or Officers, or Juſtices of the peace of ſuch Towne, or place Corporate, and one other before the Juſtices of the ſaid County, or any ſuch two of them as is aforeſaid.</p>
+            <p>And be it further Ordained, that if any action of treſpaſſe, or other ſuit ſhall happen to be attempted, or brought againſt any perſon, or perſons, for taking any diſtreſſe, or making any ſale, or any other thing doing by the authority of this preſent Ordinance, the defendant or defendants in any ſuch action or ſuit, and all others which in their aide and aſſiſtance or by their commands ſhall do any act or thing
+<pb n="7" facs="tcp:171773:6"/>
+touching or concerning the premiſſes, or any of them, or his or their Officer, or Officers, it ſhall and may be Lawfull for them, and every of them to plead the generall iſſue, that he or they are not guil<g ref="char:EOLhyphen"/>ty, and to give ſuch ſpeciall matter in evidence to the Jury which ſhall try the ſame, which ſpeciall mat<g ref="char:EOLhyphen"/>ter being pleaded had bin a good and ſufficient mat<g ref="char:EOLhyphen"/>ter in Law to have diſcharged the ſaid defendant or Defendants of the Treſpaſſe or other matter laid to his charge, and that if upon the triall of any ſuch Action or Suit, the plaintiffe or plaintiffes ſhall not prove to the Jury which ſhall try the ſame, that the fact or cauſe of his or their Action or Suit, was, or were had, made, committed, or done within the County wherein ſuch Action, or Suit ſhall be laid, That then in every ſuch caſe the Jury which ſhall try the ſame ſhall finde the defendant or defendants in every ſuch Action or Suit not guilty, without having any reſpect or regard to any evidence given by the Plaintiffe or Plaintiffes therein, touching the Treſpaſſe, fact, or cauſe, for which the ſame Acti<g ref="char:EOLhyphen"/>on or Suit is or ſhall be brought, and that if the verdict ſhall paſſe with the ſaid defendant or defen<g ref="char:EOLhyphen"/>dants in ſuch Action, or the Plaintiffe or Plaintiffes therein, become non-ſuit, or ſuffer any diſcontinuance thereof, that in every ſuch caſe the Juſtice or Ju<g ref="char:EOLhyphen"/>ſtices, or ſuch other Judge, or Court before whom the ſaid matter ſhall be tryed or depending, ſhall by force and vertue of this Ordinance allow unto the defendant or defendants his or their double coſts which he or they ſhall have ſuſtained by reaſon of his or their wrongfull vexation in defence of the ſaid Suit or Action, for which the ſaid defendant or de<g ref="char:EOLhyphen"/>fendants,
+<pb n="8" facs="tcp:171773:7"/>
+ſhall have like remedy, as in other caſes where coſt by the Law of this Realm are given to the defendants: &amp; for as much as the Churchwardens or Collectors aforeſaid may peradventure be careleſſe or negligent in performing their duty, it is further Ordered and Ordained, that upon complaint made to the two next Juſtices, or one of them, or other information had thereof, the aforeſaid Juſtices, or one of them, ſhall or may in their owne perſons view the ſaid Churches or Chappells, or appoint the Mi<g ref="char:EOLhyphen"/>niſter, and ſome other of the pariſhioners to certifie unto them, or one of them, what reparations are or ſhall be needfull, and thereupon they or one of them ſhall by a Warrant under their hand and ſeales to the Church-wardens order and direct what reparations ſhall be done within the ſaid churches or chappells, &amp; limit and appoint the time for the doing of the ſame; and if the Order aforeſaid be not performed, they ſhall binde over the ſaid churchwardens or collectors, or any of them, for their negligence herein to the next Seſſions of the peace, where if the court ſhall allow of the Order the Offender or Offenders upon due proofe of his or their negligence or offence here<g ref="char:EOLhyphen"/>in ſhall be ſeverally fined, ſo as the fine exceeds not fourty ſhillings upon any one of them, and the offender is to be committed untill the fine be paid, which is to be diſpoſed of to the uſe of the Poore of the ſaid Pariſh or Chappelrie. Provided alwaies, and it is the intent and meaning of the ſaid Ordinance, that the Pariſhioners, and the church-wardens of any Pariſh or chappelrie ſhall not be charged with, or lyable unto the repayring of any chancell, or chan<g ref="char:EOLhyphen"/>cells, or of any particular Iſle in churches or chap<g ref="char:EOLhyphen"/>pells,
+<pb n="9" facs="tcp:171773:7"/>
+which have formerly by preſcription, or cu<g ref="char:EOLhyphen"/>ſtom bin uſed to be repaired by the Parſons or Vicars, Impropriators, or others, but that the ſaid Parſons, Vicars, Impropriators, and all other perſons what<g ref="char:EOLhyphen"/>ſoever both politique and corporate, their heires and ſucceſſors, which have formerly beene lyable to the reparations of all or any part of any church, chappell, chancell, Iſle, or other place belonging to the ſame by any cuſtome whatſoever, ſhall ſtill bee lyable to the ſame to all intents and purpoſes; and for their negligence herein ſhall and may be Ordered by the two next Juſtices, or ſhall or may be preſen<g ref="char:EOLhyphen"/>ted, or indicted by the churchwardens or any others, at the next Seſſions of the Peace, where the offen<g ref="char:EOLhyphen"/>der for his offence herein ſhall be fined and procee<g ref="char:EOLhyphen"/>ded againſt in ſuch manner as the church-warden for his negligence is to be proceeded againſt by vertue of <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ordinance. Provided alſo, where any pa<g ref="char:EOLhyphen"/>riſh, or chappelrie hath any Lands or Tenements or yearely Rents, or Annuities formerly given to the repairing of their churches or chappells and for Church-Duties, the church-wardens or collectors aforeſaid ſhall be from henceforth Receivers of the ſaid Rents and profits, and ſhall have power by Warrant from the Juſtices to cauſe the parties who ought to pay the ſame to be bound over to the next Seſſions, where they ſhall be, upon due proofe and hearing the ſaid Parties, ordered to pay the ſaid Rents and profits to the church-wardens, and colle<g ref="char:EOLhyphen"/>ctors aforeſaid, who ſhall diſpoſe of the ſame accor<g ref="char:EOLhyphen"/>ding as it ought to be diſpoſed of, and thereby eaſe the Pariſh of ſo much of the charge, and ſhall yearly accompt for the ſame in their Accompts as church-wardens;
+<pb n="10" facs="tcp:171773:8"/>
+Provided that this Ordinance, as to the repairing of churches ſhall not extend to Pariſhes, or chappelries where the churches or chappels are to<g ref="char:EOLhyphen"/>tally ſubverted or ruined by theſe unhappy wars, ex<g ref="char:EOLhyphen"/>tremity of age, or other caſualties, nor to any cathe<g ref="char:EOLhyphen"/>dralls, or collegiate churches, which are onely to bee repaired as formerly they have beene uſed and ac<g ref="char:EOLhyphen"/>cuſtomed. And laſtly it is Ordained, That all offen<g ref="char:EOLhyphen"/>ces againſt this Ordinance ſhall and may be enquired of, heard, and determined before his Majeſties Ju<g ref="char:EOLhyphen"/>ſtices of Aſſize, of Oyer and Terminer, or Goale de<g ref="char:EOLhyphen"/>livery, or before the Juſtices of the Peace of any county, city, or Towne corporate, where any ſuch offence ſhall be committed by proofe of Witneſſes upon Oath, which the Juſtices aforeſaid ſhall here<g ref="char:EOLhyphen"/>by have power to adminiſter, and at their generall Seſſions of the Peace by Indictment, Information, or otherwiſe, as the caſe ſhall require, <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> wager of Law, Eſſoyne, Protection, or Injunction ſhall be admitted or allowed. And it is further Or<g ref="char:EOLhyphen"/>dered by the Lords and Commons aforeſaid, That all and every Sextin, or Pariſh-clerke within any of the Pariſhes aforeſaid, ſhall have their due Fees from the ſeverall Pariſhes, to be Ordered and recovered by Warrant from the Juſtices in ſuch manner as the Rates made for church-wardens are Ordered to be leavied by this Ordinance; and that they be elected and choſen in ſuch manner as formerly in every Pa<g ref="char:EOLhyphen"/>riſh hath been accuſtomed.</p>
+            <closer>
+               <signed>Joh. Brown, Cler. Parliamentorum.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
